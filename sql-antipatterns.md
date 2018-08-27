@@ -25,6 +25,7 @@
     * still error prone
 
 
- * in general: performance vs simplicity
+ * in general: 
  
-               correctness vs convenience
+   * performance vs simplicity
+   * correctness vs convenience
