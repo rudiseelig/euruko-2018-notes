@@ -26,4 +26,5 @@
 
 
  * in general: performance vs simplicity
+ 
                correctness vs convenience
